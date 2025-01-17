@@ -1,2 +1,2 @@
 # Synchrotron-CT-Simulation
-Project for UCPH
+Project for UCPH done under the supervision of Jon Sporring
